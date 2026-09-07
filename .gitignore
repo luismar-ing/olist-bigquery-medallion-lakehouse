@@ -1,0 +1,25 @@
+# Credenciales y claves de servicio (¡MUY IMPORTANTE!)
+*.json
+.env
+*.pem
+*.key
+
+# Archivos de entorno virtual de Python
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+
+# Archivos de configuración interna de PyCharm / IDEs
+.idea/
+.vscode/
+
+# Logs y bases de datos locales temporales
+*.log
+*.sqlite
+*.db
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
